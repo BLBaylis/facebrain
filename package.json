@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://blbaylis.github.io/facebrain",
   "dependencies": {
-    "clarifai": "^2.9.0",
+    "clarifai": "^2.9.1",
     "dotenv": "^7.0.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
